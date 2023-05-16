@@ -105,4 +105,5 @@ Your *Dictionary* should support the following features:
 1. As indiciated above, you should test your project using doctest
 2. Make sure to use exceptions as we discussed in class to handle error conditions.
 
-
+Comments:
+Used the String Folding Hashing Function from https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/HashFuncExamp.html
