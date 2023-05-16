@@ -1,6 +1,7 @@
 #include "Dictionary.h"
 
 int main(){
+    //Used the String Folding Hashing Function from https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/HashFuncExamp.html
     //Constructor
     std::cout << "Initalized Dictionary Object with Default Constructor" << std::endl;
     Dictionary* test = new Dictionary();
